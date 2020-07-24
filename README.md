@@ -1,5 +1,7 @@
-# Master Degree Code
+# A Framework for Analyzing the Impact of Missing Data in Predictive Models
 
-This code was developed in my master degree search with title:
+The 'effect_size.R' code is about the effect of the input variables on the response variable (How much they explain)
 
-A Framework for Analyzing the Impact of Missing Data in Predictive Models
+The 'simulation.R' code is the general simulation, generates the artificial data sets, insert artificially missing data and fit a glm model to the data, keeping performance measures. 
+
+
